@@ -288,3 +288,7 @@ A B C D E
 ```
 
 [https://github.com/MahendraSH/dsa-cpp/tree/main/pattern/pro22.cpp]
+
+---
+
+# note 17 and 22 are quit hard
