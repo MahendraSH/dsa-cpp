@@ -1,4 +1,5 @@
-# baiscs 
+# baiscs
+
 - ## [time complextiy](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/timeComplexityBasics)
 - ## [patterns questions](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/pattern)
 
@@ -7,3 +8,4 @@
 
 - ## [ basic hashing ](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/basicHashing)
 - ## [ Important Sorting Techniques ](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/ImportantSortingTechniques)
+- ## [ arrayProblems](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/arrayProblems)
