@@ -1,6 +1,6 @@
-*./vscode
+*.vscode
 *.exe
 *./data
 *./some
 *./note
-*./.cph
+*.cph
