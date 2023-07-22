@@ -7,6 +7,3 @@
 - ## [basic Recursion](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/basicRecursion)
 
 - ## [ basic hashing ](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/basicHashing)
-- ## [ Important Sorting Techniques ](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/ImportantSortingTechniques)
-- ## [ arrayProblems](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/arrayProblems)
-- ## [ BinarySearch ](https://github.com/MahendraSH/dsa-cpp/tree/main/basics/BinarySearch)
