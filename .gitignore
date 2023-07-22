@@ -1,6 +1,5 @@
 *.vscode
 *.exe
-*./data
-*./some
-*./note
+*data
+*some
 *.cph

@@ -7,3 +7,4 @@
 - ## [ arrayProblems](https://github.com/MahendraSH/dsa-cpp/tree/main/arrayProblems)
 
 - ## [ BinarySearch ](https://github.com/MahendraSH/dsa-cpp/tree/main/BinarySearch)
+- ## [String basic to medium](https://github.com/MahendraSH/dsa-cpp/tree/main/stringEasy)
