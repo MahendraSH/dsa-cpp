@@ -23,3 +23,7 @@
 11. ## Problem Statement: Given a matrix if an element in the matrix is 0 then you will have to set its entire column and row to 0 and then return the matrix.
 
 12. ## Problem Statement: Given a matrix, your task is to rotate the matrix 90 degrees clockwise.
+
+13. ## Problem Statement: Given a Matrix, print the given matrix in spiral order.
+
+14. ## Problem Statement: Given an array of integers and an integer k, return the total number of subarrays whose sum equals k. A subarray is a contiguous non-empty sequence of elements within an array.
