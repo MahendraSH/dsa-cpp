@@ -1,0 +1,3 @@
+- # [Singly linkList ](https://github.com/MahendraSH/dsa-cpp/tree/main/learnLinkList/LL)
+  - ## [ easy singly linklist ](https://github.com/MahendraSH/dsa-cpp/tree/main/learnLinkList/LL/easy)
+  - ## [ medium singly linklist ](https://github.com/MahendraSH/dsa-cpp/tree/main/learnLinkList/LL/medium)
