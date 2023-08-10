@@ -11,3 +11,15 @@
 7. ## Check if given Linked List is Plaindrome [codingninjas](https://www.codingninjas.com/studio/problems/check-if-linked-list-is-palindrome_985248) [leetcode](https://leetcode.com/problems/palindrome-linked-list/)
 
 8. ## Segregate Even And Odd Nodes In a Linked List [codingninjas](https://www.codingninjas.com/studio/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100) [leetcode](https://leetcode.com/problems/palindrome-linked-list/)
+
+9. ## Delete Kth Node From End [codingninjas](https://www.codingninjas.com/studio/problems/delete-kth-node-from-end_799912) [leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+10. ## Delete Middle Node [codingninjas](https://www.codingninjas.com/studio/problems/delete-middle-node_763267?leftPanelTab=0) [leetcode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
+11. ## Sort Linked List [codingninjas](https://www.codingninjas.com/studio/problems/sort-linked-list_625193)
+
+12. ## sort a LL of 0's 1's and 2's by cha… [codingninjas](https://www.codingninjas.com/studio/problems/sort-linked-list-of-0s-1s-2s_1071937)
+
+13. ## Find the intersection point of Y LL [codingninjas](https://www.codingninjas.com/studio/problems/-intersection-of-two-linked-lists_630457?leftPanelTab=0)
+
+14 . ##  [codingninjas]() [leetcode]()
