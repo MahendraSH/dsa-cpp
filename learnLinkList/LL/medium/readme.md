@@ -18,7 +18,7 @@
 
 11. ## Sort Linked List [codingninjas](https://www.codingninjas.com/studio/problems/sort-linked-list_625193)
 
-12. ## ort a LL of 0's 1's and 2's by cha… [codingninjas](https://www.codingninjas.com/studio/problems/sort-linked-list-of-0s-1s-2s_1071937)
+12. ## sort a LL of 0's 1's and 2's by cha… [codingninjas](https://www.codingninjas.com/studio/problems/sort-linked-list-of-0s-1s-2s_1071937)
 
 13. ## Find the intersection point of Y LL [codingninjas](https://www.codingninjas.com/studio/problems/-intersection-of-two-linked-lists_630457?leftPanelTab=0)
 
