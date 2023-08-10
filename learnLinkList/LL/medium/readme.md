@@ -22,4 +22,4 @@
 
 13. ## Find the intersection point of Y LL [codingninjas](https://www.codingninjas.com/studio/problems/-intersection-of-two-linked-lists_630457?leftPanelTab=0)
 
-14 . ##  [codingninjas]() [leetcode]()
+14 . ## Add 1 to a number represented by LL [codingninjas](https://www.codingninjas.com/studio/problems/add-one-to-a-number-represented-as-linked-list_920557?leftPanelTab=1)
