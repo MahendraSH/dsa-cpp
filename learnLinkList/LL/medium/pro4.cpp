@@ -49,6 +49,32 @@ Node *make_loop(Node *start, int pos)
     p->next = q;
     return start;
 }
+bool isCycle1(Node *start)
+{
+    Node *slow = start;
+    Node *fast = start;
+    if (!start || !start->next)
+    {
+        return false;
+    }
+    while (fast->next && fast->next->next)
+    {
+        fast = fast->next->next;
+        slow = slow->next;
+        if (slow == fast)
+            return true;
+    }
+    return false;
+}
+bool isCycle2(Node *start)
+{
+    while (start)
+    {
+
+        start = start->next;
+    }
+    // this is in sheet 1st method
+}
 int main()
 {
     int n;
@@ -64,5 +90,5 @@ int main()
 
     int pos;
     cin >> pos;
-    start= make_loop(start , pos);`
+    start = make_loop(start, pos);
 }
